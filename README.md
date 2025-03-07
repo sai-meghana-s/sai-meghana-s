@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Azure Devops**
 
-- 📫 How to reach me **saimeghana.s1994@gmail.com**
+- 📫 Reach me at  **saimeghana.s1994@gmail.com**
 
-- ⚡ Fun fact **Coding fuels my mind, but food fuels my soul—because bugs are easier to fix on a full stomach! 🍛💻**
+- ⚡ Fun fact: **Coding fuels my mind, but food fuels my soul—because bugs are easier to fix on a full stomach! 🍛💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
