@@ -11,7 +11,7 @@
 
 <h3 align="left">Find me here:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ai-meghana-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ai-meghana-s" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sai-meghana-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ai-meghana-s" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sai_meghana_s" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=LnZMjt9rZC3d&format=png&color=ffffff" alt="sai_meghana_s" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sai-meghana-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sai-meghana-s" height="30" width="40" /></a>
 </p>
